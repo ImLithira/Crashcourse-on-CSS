@@ -1,0 +1,12 @@
+section {
+    height: 80vh;
+    border: 1px solid black;
+}
+
+p.red {
+    color: red;
+}
+
+p.blue {
+    color: blue;
+}
